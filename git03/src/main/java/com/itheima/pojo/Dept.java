@@ -9,7 +9,7 @@ import lombok.Data;
  */
 @Data
 public class Dept {
-    private  int did;
-    private  String dname;
-    private  String dtel;
+    private int did;
+    private String dname;
+    private String dtel;
 }

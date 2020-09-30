@@ -11,11 +11,11 @@ public class Demo {
     private static int did;
 
     public static void main(String[] args) {
-        System.out.println(did=8);
-        System.out.println(did=9);
-        System.out.println(did=10);
+        System.out.println(did = 8);
+        System.out.println(did = 9);
+        System.out.println(did = 10);
         System.out.println(21111);
-        Dept dept=new Dept();
+        Dept dept = new Dept();
         dept.setDid(1);
         dept.setDname("张三");
         dept.setDtel("31457-7894");

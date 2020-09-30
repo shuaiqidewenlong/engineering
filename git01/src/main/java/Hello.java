@@ -4,7 +4,7 @@
  * @create: 2020-09-09 16:26
  */
 public class Hello {
-    public void hello(){
+    public void hello() {
         System.out.println("hello");
         System.out.println("hello123");
         System.out.println("helloword");
@@ -20,9 +20,6 @@ public class Hello {
         System.out.println("555");
         System.out.println("666");
         System.out.println("777");
-        System.out.println("依法逮捕文龙");
-        System.out.println("大家都退了吧");
-        System.out.println("文龙被抓了");
         System.out.println("张三");
         System.out.println("chaonim");
     }
